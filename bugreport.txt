@@ -1,0 +1,12 @@
+1) Title
+2) Project
+3) Version
+4) Severity
+5) Priority
+6) Status
+7) Author
+8) Executor
+9) STR
+10) Actual result
+11) Expected result
+12) Additional files
